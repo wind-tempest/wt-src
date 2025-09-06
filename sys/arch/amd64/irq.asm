@@ -1,9 +1,18 @@
 ; SPDX-License-Identifier: LSL-1.4
 ;
-; Copyright (C) 2025 Tempest Foundation <https://wind.tempestfoundation.org>
+; -- BEGIN LICENSE HEADER --
+; The Wind/Tempest Project
 ;
-; Authors:
-;	Russian95 (https://github.com/Russian95CrE) <russian95@tempestfoundation.org>
+; File:        sys/arch/amd64/irq.asm
+; Author(s):   Russian95 <russian95@tempestfoundation.org>
+;              (https://github.com/Russian95CrE)
+; Maintainer:  Tempest Foundation <development@tempestfoundation.org>
+; Link:        https://wtsrc.tempestfoundation.org
+;
+; Copyright (C) 2025 Tempest Foundation
+; Licensed under the Liberty Software License, Version 1.4
+; -- END OF LICENSE HEADER --
+;
 
 global irq0, irq1, irq2, irq3, irq4, irq5, irq6, irq7
 global irq8, irq9, irq10, irq11, irq12, irq13, irq14, irq15

@@ -1,9 +1,17 @@
 // SPDX-License-Identifier: LSL-1.4
 /*
- * Copyright (C) 2025 Tempest Foundation <https://wind.tempestfoundation.org>
+ * -- BEGIN LICENSE HEADER --
+ * The Wind/Tempest Project
  *
- * Authors:
- *	Russian95 (https://github.com/Russian95CrE) <russian95@tempestfoundation.org>
+ * File:        include/lib/kmath/kround.h
+ * Author(s):   Russian95 <russian95@tempestfoundation.org>
+ *              (https://github.com/Russian95CrE)
+ * Maintainer:  Tempest Foundation <development@tempestfoundation.org>
+ * Link:        https://wtsrc.tempestfoundation.org
+ *
+ * Copyright (C) 2025 Tempest Foundation
+ * Licensed under the Liberty Software License, Version 1.4
+ * -- END OF LICENSE HEADER --
  */
 
 #pragma once
